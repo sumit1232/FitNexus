@@ -8,7 +8,7 @@ dotenv.config();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://fitnexus-nine.vercel.app",
+"https://fitnexus-sandy.vercel.app"
 ];
 
 app.use(
